@@ -1,2 +1,2 @@
 # www
-the website
+Awkward Terrain's hugo website repository

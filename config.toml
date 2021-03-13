@@ -1,0 +1,4 @@
+baseURL = "http://awkwardterrain.com/"
+languageCode = "en-us"
+title = "Awkward Terrain"
+theme = "ananke"
